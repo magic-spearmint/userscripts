@@ -24,6 +24,6 @@
 // @compatible  yandex    Tampermonkey or Violentmonkey
 // @homepageURL https://github.com/magic-spearmint/userscripts
 // @supportURL  https://github.com/magic-spearmint/userscripts/wiki
-// @updateURL   https://github.com/magic-spearmint/userscripts/main/bluesky/blacksky_redirect.meta.js
-// @downloadURL https://github.com/magic-spearmint/userscripts/main/bluesky/blacksky_redirect.user.js
+// @updateURL   https://raw.githubusercontent.com/magic-spearmint/userscripts/main/bluesky/blacksky_redirect.meta.js
+// @downloadURL https://raw.githubusercontent.com/magic-spearmint/userscripts/main/bluesky/blacksky_redirect.user.js
 // ==/UserScript==
