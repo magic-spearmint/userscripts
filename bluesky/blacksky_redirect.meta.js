@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        Bluesky: Blacksky Redirect
 // @namespace   magic_spearmint-bluesky-blacksky_redirect
-// @description Automatically redirects Bluesky pages serving comptaible ATProto content to their equivalent Blacksky pages.
+// @description Automatically redirects Bluesky pages serving compatible ATProto content to their equivalent Blacksky pages.
 // @author      Magic Spearmint
 // @copyright   2025 Magic Spearmint
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=bsky.app
 // @license     https://creativecommons.org/publicdomain/zero/1.0
-// @version     0.1.1
+// @version     0.1.2
 // @match       *://bsky.app/*
 // @match       *://fxbsky.app/*
 // @exclude     *://cdn.bsky.app/*
